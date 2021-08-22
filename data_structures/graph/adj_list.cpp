@@ -1,7 +1,6 @@
 // this code contains adjacency list implementation of graph.
-// it is an unweighted graph, and considered bidirectional 
-#include <iostream>
-#include <list>
+// it is an unweighted graph, and considered bi directional 
+#include <bits/stdc++.h>
 using namespace std;
 class Graph{
   int v;
