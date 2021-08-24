@@ -6,5 +6,5 @@
 2 __Algorithms__\
  &emsp;   * _implementations_\
 3 __Competitive Programming questions with code__\
-4 __DSA questions__\
+4 __DSA questions__
 
