@@ -1,4 +1,4 @@
-# CPP-codes
+# All Things CPP
 # This repository will consist of :-
 1 __Data Structures__\
  &emsp;   * _implementations_\
