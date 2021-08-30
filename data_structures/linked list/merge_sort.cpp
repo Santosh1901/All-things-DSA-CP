@@ -13,3 +13,4 @@ node*mergeSort(node*head){
     node *c = merge(a,b);
     return c;
 }
+// time complexity : same as merge sort of arrays O(NLogn)
