@@ -10,7 +10,7 @@ node*mergeSort(node*head){
     mid->next = NULL;
     a = mergeSort(a);
     b = mergeSort(b);
-    node *c = merge(a,b);
+    node *c = merge(a,b); // merge function that sorts two sorted linked lists
     return c;
 }
 // time complexity : same as merge sort of arrays O(NLogn)
